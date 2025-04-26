@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xabier</h1>
-<h3 align="center">I'm a software engineer with 5+ years of experience building web and mobile applications. I enjoy working across the stack—from crafting responsive frontends in Angular and Ionic to designing scalable Java backends with Spring.</h3>
+<h3 align="center">I'm a software engineer with 5+ years of experience, specializing in building scalable Java backends with Spring Boot. I also have experience delivering fullstack solutions, developing frontends with Angular and Ionic</h3>
 
 
 

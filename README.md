@@ -3,7 +3,7 @@
 
 
 
-💼 Projects I’ve worked on as part of my job:
+Projects I’ve worked on as part of my job:
 - 📱 A mobile app to simplify income tax filing for citizens
 - 🗺️ A land registration system with custom geospatial tools and map editing
 - 🤖 An AI-powered system to detect bankrupt taxpayers using NLP and web scraping
@@ -11,7 +11,7 @@
 - 🚆 A train monitoring system handling real-time data
 
 
-🧠 Lately, I've been building [anki-mcp](https://github.com/xabierjj/anki-mcp), a tool that uses Model Context Protocol to generate Anki decks with AI—part of my broader interest in language models and AI tools.
+Lately, I've been building [anki-mcp](https://github.com/xabierjj/anki-mcp), a tool that uses Model Context Protocol to generate Anki decks with AI—part of my broader interest in language models and AI tools.
 
 
 <h3 align="left">Connect with me:</h3>

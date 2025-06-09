@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xabier</h1>
-<h3 align="center">I'm a software engineer with 5+years of experience, specializing in building scalable Java backends with Spring Boot. I also have experience delivering fullstack solutions, developing frontends with Angular and Ionic</h3>
+<h3 align="center">I'm a software engineer with 5 years of experience, specializing in building scalable Java backends with Spring Boot. I also have experience delivering fullstack solutions, developing frontends with Angular and Ionic</h3>
 
 
 
@@ -10,8 +10,6 @@ Projects I’ve worked on as part of my job:
 - 🧭 A mobile development framework adopted by multiple teams
 - 🚆 A train monitoring system handling real-time data
 
-
-Lately, I've been building [anki-mcp](https://github.com/xabierjj/anki-mcp), a tool that uses Model Context Protocol to generate Anki decks with AI—part of my broader interest in language models and AI tools.
 
 
 <h3 align="left">Connect with me:</h3>
